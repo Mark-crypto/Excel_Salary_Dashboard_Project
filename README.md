@@ -3,13 +3,20 @@
 
 ---
 
-## 📌 Table of Contents  
-- [Description](#-description)  
-- [Features](#-features)  
-- [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Screenshots](#-screenshots)  
-- [Contributing](#-contributing)    
+## 📌 **Table of Contents**
+
+1. [Description](#-description)  
+2. [Features](#-features)  
+3. [Installation](#-installation)  
+4. [Formulas and Functions](#-formulas-and-functions)  
+   - [Median Salary by Job Titles](#-median-salary-by-job-titles)  
+   - [Dashboard Implementation](#-dashboard-implementation)  
+5. [Data Validation](#-data-validation)  
+   - [Filtered List for Data Validation](#-filtered-list-for-data-validation)  
+6. [Usage](#-usage)  
+7. [Screenshots](#-screenshots)  
+8. [Conclusion](#-conclusion)  
+9. [Contributing](#-contributing)     
 
 ---
 
@@ -103,9 +110,9 @@ What your project does and its purpose:
 ## 🖼️ Screenshots  
 | Chart Title | Chart  |  
 |---------------|-----------------|  
-| **Job Title** |![Job Title Chart](assets/title.png)|
-| **Country** |![Job Country Chart](assets/country.png)|
-|**Job Type**|![Job Type Chart](assets/type.png)|
+| **Job Title** |![Job Title Chart](title.png)|
+| **Country** |![Job Country Chart](country.png)|
+|**Job Type**|![Job Type Chart](type.png)|
    
 ---
 
